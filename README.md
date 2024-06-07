@@ -6,4 +6,4 @@ Le projet vise à concevoir une base de données pour la RATP dans les années 9
 
 ## Projet
 Vous pouvez consulter le rapport ci-dessous: 
-[MySQl Project](https://github.com/marktr11/MySQL-project/blob/main/RAPPORT_Final1.pdf)
+[MySQL Project](https://github.com/marktr11/MySQL-project/blob/main/RAPPORT_Final1.pdf)
